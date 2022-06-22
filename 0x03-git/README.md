@@ -1,1 +1,2 @@
-not empty
+My first readme
+This is a test
