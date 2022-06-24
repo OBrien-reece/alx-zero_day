@@ -5,3 +5,7 @@ This is a test
 After you have done that, in your terminal:
 
 Get all changes of the main branch lo
+kwjhkjlk;w'
+e'wwegengbklw;'
+g'hgjkgdl;d'
+w
